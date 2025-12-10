@@ -125,18 +125,13 @@ Based on the analysis, the following actions are recommended:
 
 ## 📷 Dashboard & Report
 
+## 📷 Dashboard & Report
+
 - **Live Tableau Dashboard:**  
-  👉 [Zomato Customer Insights on Tableau Public](https://public.tableau.com/shared/F3BTK5BRB?:display_count=n&:origin=viz_share_link)
+  [Zomato Customer Insights on Tableau Public](https://public.tableau.com/shared/F3BTK5BRB?:display_count=n&:origin=viz_share_link)
 
 - **PDF Report:**  
-  See `/docs/Zomato_Final_Rivera.pdf` for the full narrative, charts, and recommendations.
-
-Add screenshots from the Tableau dashboard to this repo in `/assets` and reference them here, e.g.:
-
-`![Dashboard Overview](assets/dashboard_overview.png)`  
-`![Weekend vs Weekday by Segment](assets/weekend_vs_weekday.png)`
-
----
+  See `/docs/Zomato_Final_Rivera.pdf` for the full narrative and recommendations.
 
 ## 📂 Repository Structure
 
